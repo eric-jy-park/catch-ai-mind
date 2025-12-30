@@ -1,0 +1,250 @@
+{
+  "difficulty": "medium",
+  "words": [
+    {
+      "id": "food_m001",
+      "word": "피자",
+      "synonyms": ["pizza"],
+      "category": "음식",
+      "difficulty": "medium"
+    },
+    {
+      "id": "food_m002",
+      "word": "햄버거",
+      "synonyms": ["burger", "hamburger"],
+      "category": "음식",
+      "difficulty": "medium"
+    },
+    {
+      "id": "food_m003",
+      "word": "치킨",
+      "synonyms": ["chicken", "닭고기"],
+      "category": "음식",
+      "difficulty": "medium"
+    },
+    {
+      "id": "food_m004",
+      "word": "라면",
+      "synonyms": ["ramen", "instant noodles"],
+      "category": "음식",
+      "difficulty": "medium"
+    },
+    {
+      "id": "food_m005",
+      "word": "떡볶이",
+      "synonyms": ["tteokbokki"],
+      "category": "음식",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sport_001",
+      "word": "축구",
+      "synonyms": ["soccer", "football"],
+      "category": "스포츠",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sport_002",
+      "word": "야구",
+      "synonyms": ["baseball"],
+      "category": "스포츠",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sport_003",
+      "word": "농구",
+      "synonyms": ["basketball"],
+      "category": "스포츠",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sport_004",
+      "word": "수영",
+      "synonyms": ["swimming"],
+      "category": "스포츠",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sport_005",
+      "word": "테니스",
+      "synonyms": ["tennis"],
+      "category": "스포츠",
+      "difficulty": "medium"
+    },
+    {
+      "id": "job_001",
+      "word": "의사",
+      "synonyms": ["doctor"],
+      "category": "직업",
+      "difficulty": "medium"
+    },
+    {
+      "id": "job_002",
+      "word": "선생님",
+      "synonyms": ["teacher", "교사"],
+      "category": "직업",
+      "difficulty": "medium"
+    },
+    {
+      "id": "job_003",
+      "word": "경찰",
+      "synonyms": ["police"],
+      "category": "직업",
+      "difficulty": "medium"
+    },
+    {
+      "id": "job_004",
+      "word": "소방관",
+      "synonyms": ["firefighter"],
+      "category": "직업",
+      "difficulty": "medium"
+    },
+    {
+      "id": "job_005",
+      "word": "요리사",
+      "synonyms": ["chef", "cook"],
+      "category": "직업",
+      "difficulty": "medium"
+    },
+    {
+      "id": "animal_m001",
+      "word": "코끼리",
+      "synonyms": ["elephant"],
+      "category": "동물",
+      "difficulty": "medium"
+    },
+    {
+      "id": "animal_m002",
+      "word": "사자",
+      "synonyms": ["lion"],
+      "category": "동물",
+      "difficulty": "medium"
+    },
+    {
+      "id": "animal_m003",
+      "word": "호랑이",
+      "synonyms": ["tiger"],
+      "category": "동물",
+      "difficulty": "medium"
+    },
+    {
+      "id": "animal_m004",
+      "word": "팬더",
+      "synonyms": ["panda"],
+      "category": "동물",
+      "difficulty": "medium"
+    },
+    {
+      "id": "animal_m005",
+      "word": "돌고래",
+      "synonyms": ["dolphin"],
+      "category": "동물",
+      "difficulty": "medium"
+    },
+    {
+      "id": "object_m001",
+      "word": "컴퓨터",
+      "synonyms": ["computer", "PC"],
+      "category": "사물",
+      "difficulty": "medium"
+    },
+    {
+      "id": "object_m002",
+      "word": "텔레비전",
+      "synonyms": ["TV", "television"],
+      "category": "사물",
+      "difficulty": "medium"
+    },
+    {
+      "id": "object_m003",
+      "word": "냉장고",
+      "synonyms": ["refrigerator", "fridge"],
+      "category": "사물",
+      "difficulty": "medium"
+    },
+    {
+      "id": "object_m004",
+      "word": "선풍기",
+      "synonyms": ["fan"],
+      "category": "사물",
+      "difficulty": "medium"
+    },
+    {
+      "id": "object_m005",
+      "word": "시계",
+      "synonyms": ["clock", "watch"],
+      "category": "사물",
+      "difficulty": "medium"
+    },
+    {
+      "id": "place_001",
+      "word": "학교",
+      "synonyms": ["school"],
+      "category": "장소",
+      "difficulty": "medium"
+    },
+    {
+      "id": "place_002",
+      "word": "병원",
+      "synonyms": ["hospital"],
+      "category": "장소",
+      "difficulty": "medium"
+    },
+    {
+      "id": "place_003",
+      "word": "공원",
+      "synonyms": ["park"],
+      "category": "장소",
+      "difficulty": "medium"
+    },
+    {
+      "id": "place_004",
+      "word": "도서관",
+      "synonyms": ["library"],
+      "category": "장소",
+      "difficulty": "medium"
+    },
+    {
+      "id": "place_005",
+      "word": "영화관",
+      "synonyms": ["cinema", "theater"],
+      "category": "장소",
+      "difficulty": "medium"
+    },
+    {
+      "id": "music_001",
+      "word": "기타",
+      "synonyms": ["guitar"],
+      "category": "음악",
+      "difficulty": "medium"
+    },
+    {
+      "id": "music_002",
+      "word": "피아노",
+      "synonyms": ["piano"],
+      "category": "음악",
+      "difficulty": "medium"
+    },
+    {
+      "id": "music_003",
+      "word": "드럼",
+      "synonyms": ["drum", "drums"],
+      "category": "음악",
+      "difficulty": "medium"
+    },
+    {
+      "id": "music_004",
+      "word": "바이올린",
+      "synonyms": ["violin"],
+      "category": "음악",
+      "difficulty": "medium"
+    },
+    {
+      "id": "music_005",
+      "word": "마이크",
+      "synonyms": ["microphone", "mic"],
+      "category": "음악",
+      "difficulty": "medium"
+    }
+  ]
+}

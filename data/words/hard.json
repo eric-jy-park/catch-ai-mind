@@ -1,0 +1,215 @@
+{
+  "difficulty": "hard",
+  "words": [
+    {
+      "id": "landmark_001",
+      "word": "에펠탑",
+      "synonyms": ["Eiffel Tower"],
+      "category": "랜드마크",
+      "difficulty": "hard"
+    },
+    {
+      "id": "landmark_002",
+      "word": "자유의여신상",
+      "synonyms": ["Statue of Liberty"],
+      "category": "랜드마크",
+      "difficulty": "hard"
+    },
+    {
+      "id": "landmark_003",
+      "word": "피라미드",
+      "synonyms": ["pyramid"],
+      "category": "랜드마크",
+      "difficulty": "hard"
+    },
+    {
+      "id": "landmark_004",
+      "word": "타지마할",
+      "synonyms": ["Taj Mahal"],
+      "category": "랜드마크",
+      "difficulty": "hard"
+    },
+    {
+      "id": "landmark_005",
+      "word": "만리장성",
+      "synonyms": ["Great Wall"],
+      "category": "랜드마크",
+      "difficulty": "hard"
+    },
+    {
+      "id": "concept_001",
+      "word": "자유",
+      "synonyms": ["freedom", "liberty"],
+      "category": "개념",
+      "difficulty": "hard"
+    },
+    {
+      "id": "concept_002",
+      "word": "평화",
+      "synonyms": ["peace"],
+      "category": "개념",
+      "difficulty": "hard"
+    },
+    {
+      "id": "concept_003",
+      "word": "사랑",
+      "synonyms": ["love"],
+      "category": "개념",
+      "difficulty": "hard"
+    },
+    {
+      "id": "concept_004",
+      "word": "행복",
+      "synonyms": ["happiness"],
+      "category": "개념",
+      "difficulty": "hard"
+    },
+    {
+      "id": "concept_005",
+      "word": "우정",
+      "synonyms": ["friendship"],
+      "category": "개념",
+      "difficulty": "hard"
+    },
+    {
+      "id": "compound_001",
+      "word": "소방차",
+      "synonyms": ["fire truck"],
+      "category": "복합어",
+      "difficulty": "hard"
+    },
+    {
+      "id": "compound_002",
+      "word": "구급차",
+      "synonyms": ["ambulance"],
+      "category": "복합어",
+      "difficulty": "hard"
+    },
+    {
+      "id": "compound_003",
+      "word": "경찰차",
+      "synonyms": ["police car"],
+      "category": "복합어",
+      "difficulty": "hard"
+    },
+    {
+      "id": "compound_004",
+      "word": "놀이공원",
+      "synonyms": ["amusement park", "theme park"],
+      "category": "복합어",
+      "difficulty": "hard"
+    },
+    {
+      "id": "compound_005",
+      "word": "수영장",
+      "synonyms": ["swimming pool", "pool"],
+      "category": "복합어",
+      "difficulty": "hard"
+    },
+    {
+      "id": "activity_001",
+      "word": "스키",
+      "synonyms": ["skiing"],
+      "category": "활동",
+      "difficulty": "hard"
+    },
+    {
+      "id": "activity_002",
+      "word": "스케이트",
+      "synonyms": ["skating", "ice skating"],
+      "category": "활동",
+      "difficulty": "hard"
+    },
+    {
+      "id": "activity_003",
+      "word": "서핑",
+      "synonyms": ["surfing"],
+      "category": "활동",
+      "difficulty": "hard"
+    },
+    {
+      "id": "activity_004",
+      "word": "등산",
+      "synonyms": ["hiking", "mountain climbing"],
+      "category": "활동",
+      "difficulty": "hard"
+    },
+    {
+      "id": "activity_005",
+      "word": "캠핑",
+      "synonyms": ["camping"],
+      "category": "활동",
+      "difficulty": "hard"
+    },
+    {
+      "id": "science_001",
+      "word": "현미경",
+      "synonyms": ["microscope"],
+      "category": "과학",
+      "difficulty": "hard"
+    },
+    {
+      "id": "science_002",
+      "word": "망원경",
+      "synonyms": ["telescope"],
+      "category": "과학",
+      "difficulty": "hard"
+    },
+    {
+      "id": "science_003",
+      "word": "DNA",
+      "synonyms": ["dna", "디엔에이"],
+      "category": "과학",
+      "difficulty": "hard"
+    },
+    {
+      "id": "science_004",
+      "word": "원자",
+      "synonyms": ["atom"],
+      "category": "과학",
+      "difficulty": "hard"
+    },
+    {
+      "id": "science_005",
+      "word": "태양계",
+      "synonyms": ["solar system"],
+      "category": "과학",
+      "difficulty": "hard"
+    },
+    {
+      "id": "mythology_001",
+      "word": "용",
+      "synonyms": ["dragon"],
+      "category": "신화",
+      "difficulty": "hard"
+    },
+    {
+      "id": "mythology_002",
+      "word": "유니콘",
+      "synonyms": ["unicorn"],
+      "category": "신화",
+      "difficulty": "hard"
+    },
+    {
+      "id": "mythology_003",
+      "word": "봉황",
+      "synonyms": ["phoenix"],
+      "category": "신화",
+      "difficulty": "hard"
+    },
+    {
+      "id": "mythology_004",
+      "word": "인어",
+      "synonyms": ["mermaid"],
+      "category": "신화",
+      "difficulty": "hard"
+    },
+    {
+      "id": "mythology_005",
+      "word": "천사",
+      "synonyms": ["angel"],
+      "category": "신화",
+      "difficulty": "hard"
+    }
+  ]
+}

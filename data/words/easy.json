@@ -1,0 +1,285 @@
+{
+  "difficulty": "easy",
+  "words": [
+    {
+      "id": "animal_001",
+      "word": "강아지",
+      "synonyms": ["개", "멍멍이", "puppy"],
+      "category": "동물",
+      "difficulty": "easy"
+    },
+    {
+      "id": "animal_002",
+      "word": "고양이",
+      "synonyms": ["냥이", "야옹이", "cat"],
+      "category": "동물",
+      "difficulty": "easy"
+    },
+    {
+      "id": "animal_003",
+      "word": "물고기",
+      "synonyms": ["생선", "fish"],
+      "category": "동물",
+      "difficulty": "easy"
+    },
+    {
+      "id": "animal_004",
+      "word": "새",
+      "synonyms": ["bird", "조류"],
+      "category": "동물",
+      "difficulty": "easy"
+    },
+    {
+      "id": "animal_005",
+      "word": "토끼",
+      "synonyms": ["rabbit", "토기"],
+      "category": "동물",
+      "difficulty": "easy"
+    },
+    {
+      "id": "fruit_001",
+      "word": "사과",
+      "synonyms": ["apple", "능금"],
+      "category": "과일",
+      "difficulty": "easy"
+    },
+    {
+      "id": "fruit_002",
+      "word": "바나나",
+      "synonyms": ["banana"],
+      "category": "과일",
+      "difficulty": "easy"
+    },
+    {
+      "id": "fruit_003",
+      "word": "딸기",
+      "synonyms": ["strawberry"],
+      "category": "과일",
+      "difficulty": "easy"
+    },
+    {
+      "id": "fruit_004",
+      "word": "포도",
+      "synonyms": ["grape", "grapes"],
+      "category": "과일",
+      "difficulty": "easy"
+    },
+    {
+      "id": "fruit_005",
+      "word": "수박",
+      "synonyms": ["watermelon"],
+      "category": "과일",
+      "difficulty": "easy"
+    },
+    {
+      "id": "object_001",
+      "word": "의자",
+      "synonyms": ["chair", "걸상"],
+      "category": "사물",
+      "difficulty": "easy"
+    },
+    {
+      "id": "object_002",
+      "word": "책",
+      "synonyms": ["book", "서적"],
+      "category": "사물",
+      "difficulty": "easy"
+    },
+    {
+      "id": "object_003",
+      "word": "연필",
+      "synonyms": ["pencil"],
+      "category": "사물",
+      "difficulty": "easy"
+    },
+    {
+      "id": "object_004",
+      "word": "컵",
+      "synonyms": ["cup", "잔"],
+      "category": "사물",
+      "difficulty": "easy"
+    },
+    {
+      "id": "object_005",
+      "word": "공",
+      "synonyms": ["ball", "볼"],
+      "category": "사물",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nature_001",
+      "word": "해",
+      "synonyms": ["태양", "sun"],
+      "category": "자연",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nature_002",
+      "word": "달",
+      "synonyms": ["moon"],
+      "category": "자연",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nature_003",
+      "word": "별",
+      "synonyms": ["star"],
+      "category": "자연",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nature_004",
+      "word": "나무",
+      "synonyms": ["tree"],
+      "category": "자연",
+      "difficulty": "easy"
+    },
+    {
+      "id": "nature_005",
+      "word": "꽃",
+      "synonyms": ["flower"],
+      "category": "자연",
+      "difficulty": "easy"
+    },
+    {
+      "id": "food_001",
+      "word": "밥",
+      "synonyms": ["rice", "쌀밥"],
+      "category": "음식",
+      "difficulty": "easy"
+    },
+    {
+      "id": "food_002",
+      "word": "빵",
+      "synonyms": ["bread"],
+      "category": "음식",
+      "difficulty": "easy"
+    },
+    {
+      "id": "food_003",
+      "word": "우유",
+      "synonyms": ["milk"],
+      "category": "음식",
+      "difficulty": "easy"
+    },
+    {
+      "id": "food_004",
+      "word": "물",
+      "synonyms": ["water"],
+      "category": "음식",
+      "difficulty": "easy"
+    },
+    {
+      "id": "food_005",
+      "word": "김밥",
+      "synonyms": ["kimbap"],
+      "category": "음식",
+      "difficulty": "easy"
+    },
+    {
+      "id": "body_001",
+      "word": "눈",
+      "synonyms": ["eye", "눈동자"],
+      "category": "신체",
+      "difficulty": "easy"
+    },
+    {
+      "id": "body_002",
+      "word": "코",
+      "synonyms": ["nose"],
+      "category": "신체",
+      "difficulty": "easy"
+    },
+    {
+      "id": "body_003",
+      "word": "입",
+      "synonyms": ["mouth"],
+      "category": "신체",
+      "difficulty": "easy"
+    },
+    {
+      "id": "body_004",
+      "word": "손",
+      "synonyms": ["hand"],
+      "category": "신체",
+      "difficulty": "easy"
+    },
+    {
+      "id": "body_005",
+      "word": "발",
+      "synonyms": ["foot"],
+      "category": "신체",
+      "difficulty": "easy"
+    },
+    {
+      "id": "vehicle_001",
+      "word": "자동차",
+      "synonyms": ["car", "차"],
+      "category": "탈것",
+      "difficulty": "easy"
+    },
+    {
+      "id": "vehicle_002",
+      "word": "자전거",
+      "synonyms": ["bicycle", "bike"],
+      "category": "탈것",
+      "difficulty": "easy"
+    },
+    {
+      "id": "vehicle_003",
+      "word": "버스",
+      "synonyms": ["bus"],
+      "category": "탈것",
+      "difficulty": "easy"
+    },
+    {
+      "id": "vehicle_004",
+      "word": "기차",
+      "synonyms": ["train"],
+      "category": "탈것",
+      "difficulty": "easy"
+    },
+    {
+      "id": "vehicle_005",
+      "word": "비행기",
+      "synonyms": ["airplane", "plane"],
+      "category": "탈것",
+      "difficulty": "easy"
+    },
+    {
+      "id": "weather_001",
+      "word": "비",
+      "synonyms": ["rain"],
+      "category": "날씨",
+      "difficulty": "easy"
+    },
+    {
+      "id": "weather_002",
+      "word": "눈",
+      "synonyms": ["snow"],
+      "category": "날씨",
+      "difficulty": "easy"
+    },
+    {
+      "id": "weather_003",
+      "word": "구름",
+      "synonyms": ["cloud"],
+      "category": "날씨",
+      "difficulty": "easy"
+    },
+    {
+      "id": "weather_004",
+      "word": "무지개",
+      "synonyms": ["rainbow"],
+      "category": "날씨",
+      "difficulty": "easy"
+    },
+    {
+      "id": "weather_005",
+      "word": "번개",
+      "synonyms": ["lightning"],
+      "category": "날씨",
+      "difficulty": "easy"
+    }
+  ]
+}
